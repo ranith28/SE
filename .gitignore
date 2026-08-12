@@ -1,6 +1,4 @@
 *.py
-*.txt
-!login.txt
 screenshots/
 *.docx
 docx_analysis.txt
