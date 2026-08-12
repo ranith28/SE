@@ -1,0 +1,7 @@
+*.py
+*.txt
+!login.txt
+screenshots/
+*.docx
+docx_analysis.txt
+scenario_analysis.txt
